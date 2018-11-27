@@ -1,0 +1,39 @@
+{{ if .Site.Params.banner.enable }}
+{{ "<!-- Slider Section Start -->" | safeHTML }}
+<section id="hero-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <div class="block wow fadeInUp" data-wow-delay=".3s">
+                    {{ "<!-- Slider -->" | safeHTML}}
+                    <section class="cd-intro">
+					<br><br><br>
+					<h3> "... gladly do I nail myself to Your Cross, ready to be in the cross-roads of this world, a soul dedicated to You, to Your glory..." </h3>
+                        <h1 class="wow fadeInUp animated cd-headline slide" data-wow-delay=".4s">
+                            <span class="cd-words-wrapper">
+                                <span class="cd-words-wrapper">
+									<b class="is-visible"> </b>
+									<b>SOUL AT CROSSROAD </b>
+									<b>DIGNUM ET IUSTUM EST </b>                       
+								</span>
+                            </span>
+                        </h1>
+                    </section>
+                    <h2 class="wow fadeInDown animated" data-wow-delay=".6s" >
+                        Welcome!!!<br> This is my story. This is my blog.
+                    </h2>
+                    
+					{{ if .Site.Params.banner.btn }}                    
+                       <div id="container">						
+						<a class="btn-lines dark light wow fadeInUp animated btn btn-default btn-green hvr-bounce-to-right" data-wow-delay=".9s"
+                            href="/blog">Latest post</a>
+					   </div>
+                    {{ end }}
+					
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ "<!-- Slider Section End -->" | safeHTML }}
+{{ end }}

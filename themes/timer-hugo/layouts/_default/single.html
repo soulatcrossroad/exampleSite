@@ -1,0 +1,67 @@
+{{ partial "header.html" . }}
+
+<section class="global-page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <ol class="breadcrumb list-inline text-center">
+                        <li class="list-inline-item">
+                            <a href="{{ .Site.BaseURL }}">
+                                <i class="ion-ios-home"></i>
+                                Home &nbsp; &nbsp;/
+                            </a>
+                        </li>
+						<li class="list-inline-item">
+                            <a href="/blog">Blog &nbsp; &nbsp;/</a>
+                        </li>
+                        
+                    </ol>
+					<h2>{{ .Title }}</h2>
+                    <div class="portfolio-meta">
+                        <span>{{ dateFormat "Jan 2, 2006" .Date }}</span>                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="single-post">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">                
+                <div class="post-content">
+                    {{ .Content }}
+                </div>
+				
+				{{ with .Params.image }}
+                <div class="post-img">
+                    <img class="img-fluid" alt="" src="{{ . | absURL }}">
+                </div>
+                {{ end }}				
+            </div>			
+        </div>
+		<br><br>
+		<div id="container">
+			{{ if .PrevInSection }}
+					<div style="float: left;">
+					<a class="btn-lines dark light wow fadeInUp animated btn btn-default btn-green hvr-bounce-to-right" data-wow-delay=".9s" href="{{.PrevInSection.Permalink}}">Previous Post</a>
+					</div>
+					
+			{{ end }}
+
+			{{ if .NextInSection }}
+				<div style="float: right;">
+				<a class="btn-lines dark light wow fadeInUp animated btn btn-default btn-green hvr-bounce-to-right" data-wow-delay=".9s"href="{{.NextInSection.Permalink}}">Next Post</a>
+				</div>								
+			{{ end }}
+			
+			<br><br>
+		</div>
+    </div>
+</section>
+
+{{ partial "cta.html" . }}
+
+{{ partial "footer.html" . }}

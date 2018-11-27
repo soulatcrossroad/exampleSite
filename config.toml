@@ -1,0 +1,83 @@
+baseURL = "https://soulatcrossroad.com/"
+languageCode = "en-us"
+title = "Soul at Crossroad | DIGNUM ET IUSTUM EST"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/v2/
+
+# Site Menus
+[menu]
+    # Navbar Menus
+    
+    [[menu.nav]]
+        name    = "Blog"
+        url     = "/blog"
+        weight  = 2
+    [[menu.nav]]
+        name    = "Contact"
+        url     = "https://soulatcrossroad.wordpress.com/contact/"
+        weight  = 3
+
+# Site Params
+[params]
+    home = "Home"
+    dateFormat = "6 January 2006"
+    #
+    # You can use either an image or text as logo.
+    # To use an image use 'logo' (logo itself) and 'logo_alt' (alternative text if image cannot displayed)
+    # To use text as logo use 'logo_text'
+    logo = "images/sac.png"
+    logo_alt = "SOUL AT CROSSROAD"
+    #logo_text = "logo_text"
+
+
+    # Banner Section
+    [params.banner]
+        enable  = true
+        bgImage = "images/station-11-nailed-to-cross-.jpg"         
+        btn     = true
+        btnText1 = "Start Here"        
+		btnText2 = "Latest Post"
+        btnURL2  = "/blog"
+        [[params.banner.flipText]]
+            title   = "SOUL AT CROSSROAD"
+        [[params.banner.flipText]]
+            title   = "DIGNUM ET IUSTUM EST"
+
+    # Homepage About Section
+    [params.about]
+        enable  = true
+        title   = "ABOUT ME"
+        content = ""
+        
+
+    # Call to Action
+    [params.cta]
+        enable  = true
+        title   = "Contact or Subscribe?"
+        content = "Clicking the button below will take you to wordpress site."
+        btnText = "Click here :)"
+        btnURL  = "https://soulatcrossroad.wordpress.com/contact/"
+    
+
+    # Footer section
+    [params.footer]
+        customized  = false # Set this variable to true if you customized the design.
+        copyright_owner = "Themefisher"
+        copyright_since = "2018"
+        [[params.footer.social]]
+            icon = "ion-social-facebook"
+            link = "https://facebook.com"
+        [[params.footer.social]]
+            icon = "ion-social-twitter"
+            link = "https://twitter.com"
+        [[params.footer.social]]
+            icon = "ion-social-linkedin"
+            link = "https://linkedin.com"
+        [[params.footer.social]]
+            icon = "ion-social-googleplus"
+            link = "https://googleplus.com"
+        [[params.footer.social]]
+            icon = "ion-social-github"
+            link = "https://github.com"
+    

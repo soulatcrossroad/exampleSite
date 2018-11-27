@@ -1,0 +1,32 @@
+---
+title: "Light"
+date: 2018-11-21T12:29:40+06:00
+type: post
+image: images/blog/sunrise.jpg
+---
+
+<div style="text-align: justify">
+<span style="font-size:14.0pt;">
+
+<p  style='text-align:justify'><span style='font-size:14.0pt;'><i>“For with you is the fountain of light; in your light, we see light.”</i>
+                        (Psalm 36:9)<o:p></o:p></span></p>
+
+                        <p  style='text-align:justify'><span style='font-size:14.0pt;'>My most persistent fear of finding God is what He will make me do. My fear was that He will compel me to do something against my will, and I will have no choice but to do it. I saw all those missionaries as unfortunate people; there is no way anyone would choose to do that willingly. I felt that one day they will snap out of it. Therefore, when I decided to put in
+                        some decent effort to find God – the decent effort being following nagging thoughts and impulses – I waited in terror for God to reveal the uncomfortable location He was going to make me go to. I asked for His Light to show me the path I should walk, reluctantly gearing myself to <i>go</i> somewhere. The first thing I saw was Light. The next thing I saw was darkness.</span></p>
+
+                        <p  style='text-align:justify'><span style='font-size:14.0pt;'>The Light is of God. The darkness is all mine; the desires I didn’t realise were hidden, the abundance of things that have to be purged and the transformation that needs to be wrought in me. If your fear to be with God is that you will have to give up your material possessions, I can tell you in all confidence that this is the easiest thing to give up. I would give up a thousad possessions ten times and over if I didn't have to change the core of my existence.</span></p>
+
+                        <p  style='text-align:justify'><span style='font-size:14.0pt;'>Looking at the feature picture for this post, the surroundings appear dark despite the sun’s brilliance, and yet the sun is high enough for everywhere to be bright. It looks like it is approaching evening in the picture while it is hardly 2 hours after sunrise. This effect is so because the camera’s focus was on the sun; I was focusing on the height of the sun. Despite it being 5:30am in the morning, it appeared to be 8am. If, however, I focused on a tree or a building with or without the sun being in the picture, then the picture would have been bright, and you would have seen the day as brightly as I saw it. This is the work of the Light of God in our
+                        own lives. The effect of the light is to see myself as I really am. And that only happens if I keep the Light as my focus. If I look at myself without the Light, there is nothing wrong with me.</span></p>
+
+                        <p  style='text-align:justify'><span style='font-size:14.0pt;'>Luckily, this knowledge of myself is not something that is shown all at once, because one needs courage to see oneself as one really is. If you are luckier, there is a lot of time to see, absorb, accept and resolve - the luck being the amount of time you have to spend on earth. It is not an endeavour to undertake apart from God, while away from His presence, because one might go mental, and/or kill oneself. But it got increasingly difficult for me the more I persisted in hanging on to this Light, because I felt that I should get better at being good after a time – the point of being taught is to be able to do things on your own after working some examples with the teacher. However, I kept seeing worse things. When was I going to get perfect?!</span></p>
+
+                        <p  style='text-align:justify'><span style='font-size:14.0pt;'>And therein lay (one of) my major failing: I wanted to show God I could be good <i >all by myself</i>. Who needs God when they can do things by themselves? I found that I don’t really want to <i>need</i> God or to depend on Him. I want, instead, to be rewarded for every good thing that I can accomplish. By myself. So, you can imagine the knocking my ego gets every time it tries to rise to show how independent it can be. It took a lot of bruising (and it still gets bruised if I forget) to get the idea that I was not called to be perfect but to be dependent; absolute trust. Like a new-born baby depends on his mother for everything from clearing blocked nose to clogged bowels; utterly helpless. <o:p></o:p></span></p>
+
+                        <p  style='text-align:justify'><span style='font-size:14.0pt;'>Apart from working on trusting God, I find that I have to change my idea of perfection. Perfection for me, now, consists in seeing myself as I really am, seeing God as He really is, understanding the distance between us due to our natures and the closeness He wants because of His love for me, accepting all these facts and making an appropriate response towards Him. I must admit that though I dreaded the thought of going to some remote locations, I was sort of looking forward to some sort of adventure. Adrenaline-pumping action. But for now, the place I am being sent to, the place I have to <i>go</i> to, is into myself.</p>
+
+                        <p  style='text-align:justify'><span style='font-size:14.0pt;'>There was on saint whose story made me laugh uproariously. He finally found out how much of a sinner he was and felt a need to do penance for the rest of his life. So, he wore heavy chains and stayed on the outskirts of the city in caves. His city was invaded by soldiers, and two of these soldiers came scouring the caves looking for runaways. Upon finding him, they decided he was a dangerous criminal because of the heavy chains he was wearing. When they approached him and asked him to confirm his status, he said he was the worst offender. Upon confirming their suspicions, one of the soldiers raised his sword to strike him down. Unfortunately for that soldier, his hand remained stuck in the air unable to move. The second soldier now knelt at the feet of the man and begged him to pray for the other soldier. He prayed, the soldier’s hand came down, and both soldiers became converts. I was tickled by the “worst offender” part; how he felt so penitent that he purposely took the question literally and how the soldiers had no idea that he was talking of something else. The joke is now on me.</span></p>
+<br> <br>
+
+</span>
+</div>

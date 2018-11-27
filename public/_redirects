@@ -1,0 +1,7 @@
+# Redirect default Netlify subdomain to primary domain
+https://soulatcrossroad.netlify.com/* https://soulatcrossroad.com/:splat 301
+
+# Redirect with a 301
+/index         /                            301
+
+
