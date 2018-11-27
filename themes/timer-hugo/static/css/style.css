@@ -48,7 +48,7 @@ p {
 }
 
 body {
-  background: #fff;
+  background: #f1e8dc;
 }
 
 ul {
@@ -422,6 +422,7 @@ a:hover {
 
 #about .block {
   padding: 20px 30px 0 30px;
+  background: #fff;
 }
 
 #about .block h2 {
