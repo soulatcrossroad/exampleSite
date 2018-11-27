@@ -1,4 +1,4 @@
-baseURL = "https://soulatcrossroad.com"
+baseURL = "https://soulatcrossroad.com/"
 languageCode = "en-us"
 title = "Soul at Crossroad | DIGNUM ET IUSTUM EST"
 theme = "timer-hugo"
